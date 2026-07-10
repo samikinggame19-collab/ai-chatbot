@@ -44,6 +44,4 @@ http://localhost:3000
 
 
 ## Author
- Sami Ullah
-
 Sami Ullah
