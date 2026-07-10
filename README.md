@@ -1,5 +1,5 @@
 # 🤖 AI Chat Assistant
-
+![AI Chat App Screenshot](screenshot.png)
 
 A modern AI chatbot built with HTML, CSS, JavaScript, Node.js, Express, and the OpenRouter API.
 
